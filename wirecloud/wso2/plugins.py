@@ -45,7 +45,7 @@ except:
 
 def auth_wso2_token(auth_type, token):
 
-    from social_django.models import UserSocialAuth
+    UserSocialAuth = get_social_auth_model()
     user_data = WSO2_SOCIAL_AUTH_BACKEND.user_data(token)
     return UserSocialAuth.objects.get(provider='wso2', uid=user_data['username']).user
 
