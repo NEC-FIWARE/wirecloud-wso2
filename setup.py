@@ -29,7 +29,7 @@ def read(fname):
 
 setuptools.setup(
     name='wirecloud-wso2',
-    version='0.1.0',
+    version='0.1.1',
     author="NEC",
     author_email="",
     description="WireCloud extension supporting authentication with WSO2 IDM",
