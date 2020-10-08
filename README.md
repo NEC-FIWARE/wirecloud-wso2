@@ -2,7 +2,7 @@
 
 [![](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/visualization.svg)](https://www.fiware.org/developers/catalogue/)
 [![License badge](https://img.shields.io/badge/license-AGPLv3.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0)<br/>
-[![Build Status](https://travis-ci.org/NEC-FIWARE/wirecloud-wso2.svg?branch=master)](https://travis-ci.org/NEC-FIWARE/wirecloud-wso2)
+[![Build Status](https://travis-ci.com/NEC-FIWARE/wirecloud-wso2.svg?branch=master)](https://travis-ci.com/NEC-FIWARE/wirecloud-wso2)
 [![Coverage Status](https://coveralls.io/repos/github/NEC-FIWARE/wirecloud-wso2/badge.svg)](https://coveralls.io/github/NEC-FIWARE/wirecloud-wso2)
 
 This WireCloud plugin allows the usage of WSO2 as IDM for the authentication of WireCloud
@@ -57,7 +57,7 @@ These settings include:
 
 Copyright (c) 2019 Future Internet Consulting and Development Solutions S.L. 
 
-Copyright (c) 2019 NEC Corporation. 
+Copyright (c) 2019-2020 NEC Corporation. 
 
 WireCloud-WSO2 plugin is licensed under Affero General Public License (GPL) version 3.
 
